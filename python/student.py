@@ -55,3 +55,4 @@ if __name__ == '__main__':
     stu = Scl_Student('hugo', 18, 1314)
     cap = Scl_Captain('lyj', 18, 1315, '组长')
     tec = Scl_teacher('pao', 18, '教师')
+    aaa
